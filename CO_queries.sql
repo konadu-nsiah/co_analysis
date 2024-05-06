@@ -1,5 +1,5 @@
--- checking states with co concentration above 1.5
-SELECT  DISTINCT CBSA_NAME
+-- prints out all the columns in the table
+SELECT  *
 FROM co2_data
 ORDER BY Date;
 
