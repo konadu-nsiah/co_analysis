@@ -1,5 +1,4 @@
 -- created a view to merge the separate tables together
-
 CREATE VIEW CO2_DATA 
 AS
 SELECT 
